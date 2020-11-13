@@ -20,7 +20,7 @@
     {
         "remote":       "aospa",
         "repository":   "marcomarinho/android_hardware_qcom_display",
-        "target_path":  "hardware/qcom/display",
+        "target_path":  "vendor/qcom/opensource/commonsys-intf/display",
         "revision":     "ruby-8998"
     },
     {
