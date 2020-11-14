@@ -7,6 +7,12 @@
     },
     {
         "remote":       "aospa",
+        "repository":   "AOSPA-cheeseburger/android_device_qcom_common",
+        "target_path":  "device/qcom/common",
+        "revision":     "ruby"
+    },
+    {
+        "remote":       "aospa",
         "repository":   "aospa-op5-custom/android_kernel_oneplus_msm8998",
         "target_path":  "kernel/oneplus/msm8998",
         "revision":     "ruby"
@@ -34,6 +40,12 @@
         "repository":   "AOSPA/android_hardware_qcom_gps",
         "target_path":  "hardware/qcom/gps",
         "revision":     "ruby-smxx50"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "ZVNexus/proprietary_vendor_qcom_common",
+        "target_path":  "vendor/qcom/common",
+        "revision":     "ruby"
     },
     {
         "remote":       "aospa",
