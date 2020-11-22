@@ -3,7 +3,7 @@
         "remote":       "aospa",
         "repository":   "AOSPA-cheeseburger/android_device_oneplus_oneplus5",
         "target_path":  "device/oneplus/oneplus5",
-        "revision":     "ruby-data"
+        "revision":     "ruby"
     },
     {
         "remote":       "aospa",
