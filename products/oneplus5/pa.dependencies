@@ -19,7 +19,7 @@
     },
     {
         "remote":       "aospa",
-        "repository":   "AOSPA/android_hardware_qcom_audio",
+        "repository":   "AOSPA-cheeseburger/android_hardware_qcom_audio",
         "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
         "revision":     "ruby-8998"
     },
@@ -31,7 +31,7 @@
     },
     {
         "remote":       "aospa",
-        "repository":   "AOSPA/android_hardware_qcom_media",
+        "repository":   "AOSPA-cheeseburger/android_hardware_qcom_media",
         "target_path":  "hardware/qcom/media",
         "revision":     "ruby-8998"
     },
