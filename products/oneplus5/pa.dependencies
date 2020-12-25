@@ -7,7 +7,7 @@
     },
     {
         "remote":       "aospa",
-        "repository":   "AOSPA-cheeseburger/android_device_qcom_common",
+        "repository":   "AOSPA/android_device_qcom_common",
         "target_path":  "device/qcom/common",
         "revision":     "ruby"
     },
@@ -42,8 +42,8 @@
         "revision":     "ruby-smxx50"
     },
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA-cheeseburger/proprietary_vendor_qcom_common",
+        "remote":       "blobs",
+        "repository":   "proprietary_vendor_qcom_common",
         "target_path":  "vendor/qcom/common",
         "revision":     "ruby"
     },
@@ -51,6 +51,6 @@
         "remote":       "aospa",
         "repository":   "AOSPA-cheeseburger/proprietary_vendor_oneplus",
         "target_path":  "vendor/oneplus",
-        "revision":     "ruby"
+        "revision":     "master"
     }
 ]
