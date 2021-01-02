@@ -7,31 +7,25 @@
     },
     {
         "remote":       "aospa",
-        "repository":   "AOSPA/android_device_qcom_common",
-        "target_path":  "device/qcom/common",
-        "revision":     "ruby"
-    },
-    {
-        "remote":       "aospa",
         "repository":   "aospa-op5-custom/android_kernel_oneplus_msm8998",
         "target_path":  "kernel/oneplus/msm8998",
         "revision":     "ruby"
     },
     {
         "remote":       "aospa",
-        "repository":   "AOSPA-cheeseburger/android_hardware_qcom_audio",
+        "repository":   "AOSPA/android_hardware_qcom_audio",
         "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
         "revision":     "ruby-8998"
     },
     {
         "remote":       "aospa",
-        "repository":   "AOSPA-cheeseburger/android_hardware_qcom_display",
-        "target_path":  "hardware/qcom/display",
+        "repository":   "marcomarinho/android_hardware_qcom_display",
+        "target_path":  "vendor/qcom/opensource/commonsys-intf/display",
         "revision":     "ruby-8998"
     },
     {
         "remote":       "aospa",
-        "repository":   "AOSPA-cheeseburger/android_hardware_qcom_media",
+        "repository":   "AOSPA/android_hardware_qcom_media",
         "target_path":  "hardware/qcom/media",
         "revision":     "ruby-8998"
     },
@@ -42,15 +36,9 @@
         "revision":     "ruby-smxx50"
     },
     {
-        "remote":       "blobs",
-        "repository":   "proprietary_vendor_qcom_common",
-        "target_path":  "vendor/qcom/common",
-        "revision":     "ruby"
-    },
-    {
         "remote":       "aospa",
         "repository":   "AOSPA-cheeseburger/proprietary_vendor_oneplus",
         "target_path":  "vendor/oneplus",
-        "revision":     "master"
+        "revision":     "ruby"
     }
 ]
