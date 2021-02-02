@@ -19,9 +19,9 @@
     },
     {
         "remote":       "aospa",
-        "repository":   "aospa-cheeseburger/hardware_qcom-caf_msm8998_display",
+        "repository":   "StyloGey/android_hardware_qcom_display",
         "target_path":  "hardware/qcom/display",
-        "revision":     "ruby"
+        "revision":     "ruby-8998"
     },
     {
         "remote":       "aospa",
