@@ -1,7 +1,7 @@
 [
     {
         "remote":       "aospa",
-        "repository":   "AOSPA-cheeseburger/device_oneplus_msm8998_common",
+        "repository":   "AOSPA-cheeseburger/android_device_oneplus_oneplus5",
         "target_path":  "device/oneplus/oneplus5",
         "revision":     "ruby"
     },
